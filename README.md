@@ -37,7 +37,7 @@ This project demonstrates the deployment and management of an Active Directory e
 
     Implemented secure string encryption for passwords and enforced mandatory password resets on first login (ChangePasswordAtLogon).
 
-    Reduced manual configuration time by 90% through CLI-first administration.
+    Reduced manual configuration time through CLI-first administration.
 
 ## Troubleshooting & Resolution
 
